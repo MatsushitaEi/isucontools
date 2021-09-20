@@ -1,4 +1,4 @@
-module github.com/kotaroooo0/isucontools/sqlstr
+module github.com/MatsushitaEi/isucontools/sqlstr
 
 go 1.13
 
